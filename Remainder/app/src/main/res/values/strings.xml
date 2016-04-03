@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Remainder</string>
+    <string name="Remainder">Ramainder</string>
+    <string name="title_activity_activity_list">Add New To Do Item</string>
+    <string name="Activity"><b>Activity</b></string>
+    <string name="Add_Act">Add Activity</string>
+    <string name="title_activity_location_track">Map</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
